@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @couldbelimatt
-    - I’m currently learning C#
-    - I don't have any public repos lol
+  - There isn't anything here so.... how are you? :)
