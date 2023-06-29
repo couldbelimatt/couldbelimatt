@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @couldbelimatt
-  - There isn't anything here so.... how are you? :)
+  - Experience in Arch, C++ and Rust
+  - will actually make an about me when i cba
