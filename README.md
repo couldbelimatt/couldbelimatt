@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @couldbelimatt
-  - Experience in Arch, C++ and Rust
-  - will actually make an about me when i cba
+  - Experience in Arch Linux, C, and Unreal C++
+..and that's about it, lol
