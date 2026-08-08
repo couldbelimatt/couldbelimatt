@@ -1,2 +1,2 @@
 
-Suffering
+nix is pretty cool
